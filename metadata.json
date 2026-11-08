@@ -1,0 +1,6 @@
+{
+  "name": "TempMail Pro - Real-Time Disposable Email & Bulk API Service",
+  "description": "Enterprise-grade temporary email platform with real-time webmail, bulk account generator, REST API for automated testing, MySQL integration schema, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
